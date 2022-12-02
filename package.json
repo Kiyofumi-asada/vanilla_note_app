@@ -1,0 +1,20 @@
+{
+  "name": "vanilla_note_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-me:Kiyofumi-asada/vanilla_note_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "4.0.2",
+    "gulp-sass": "5.1.0",
+    "sass": "^1.56.1"
+  }
+}
